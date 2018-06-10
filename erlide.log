@@ -1,0 +1,564 @@
+12:50:18,602 I: (ErlangCore.java:63) : Starting CORE Thread[main,6,main]
+12:50:18,621 I: (ErlangCore.java:73) : *** starting Erlide v0.54.0.201803300918~0.54.0.201803211709 (model api=0.54.0.201803211709) (kernel=?~0.115.1.201707181335) *** (Cp1252)
+12:50:18,656 I: (ErlangCore.java:80) : Started CORE
+12:50:18,656 F: (ErlangPlugin.java:89) : Core started
+12:50:46,365 F: (BackendManager.java:87) : create execution backend ProjectCOmp
+12:50:46,367 F: (BackendFactory.java:54) : Create backend ProjectCOmp
+12:50:46,369 F: (OtpNodeProxy.java:306) : Runtime ProjectCOmp@DESKTOP-VBTB36P starting
+12:50:46,369 F: (OtpNodeProxy.java:426) : START node :> ["c:\program files\erl9.3/bin/erl", -sname, ProjectCOmp@DESKTOP-VBTB36P, -setcookie, erlide] *** D:\Workspace\Erlang
+12:50:46,378 F: (OtpNodeProxy.java:213) : ProjectCOmp@DESKTOP-VBTB36P: waiting connection to peer... 
+12:50:46,841 F: (OtpNodeProxy.java:220) : connected!
+12:50:47,129 F: (OtpNodeProxy.java:311) : Runtime ProjectCOmp@DESKTOP-VBTB36P running
+12:50:47,130 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_a9b73e7@DESKTOP-VBTB36P'}
+12:50:47,132 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+12:50:47,444 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@518e8e0f
+12:50:48,090 F: (ErlangLaunchDelegate.java:111) : Started erts: ProjectCOmp >> ProjectCOmp
+12:50:54,311 F: (BackendFactory.java:47) : Create build backend 20
+12:50:54,312 F: (BackendFactory.java:54) : Create backend 20_5378e_vicky_9b92e8
+12:50:54,320 F: (OtpNodeProxy.java:306) : Runtime 20_5378e_vicky_9b92e8@DESKTOP-VBTB36P.wireless.concordia.ca starting
+12:50:54,320 F: (OtpNodeProxy.java:426) : START node :> ["c:\program files\erl9.3/bin/erl", -name, 20_5378e_vicky_9b92e8@DESKTOP-VBTB36P.wireless.concordia.ca, -setcookie, erlide] *** D:\Workspace\Erlang
+12:50:54,330 F: (OtpNodeProxy.java:213) : 20_5378e_vicky_9b92e8@DESKTOP-VBTB36P.wireless.concordia.ca: waiting connection to peer... 
+12:50:54,813 F: (OtpNodeProxy.java:220) : connected!
+12:50:55,131 F: (OtpNodeProxy.java:311) : Runtime 20_5378e_vicky_9b92e8@DESKTOP-VBTB36P.wireless.concordia.ca running
+12:50:55,132 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_a9b92f6@DESKTOP-VBTB36P.wireless.concordia.ca'}
+12:50:55,134 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+12:53:44,099 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+12:53:46,350 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+12:53:52,227 F: (ErlParser.java:335) : unknown: other
+12:53:53,649 F: (ErlParser.java:335) : unknown: other
+12:53:56,190 F: (ErlParser.java:335) : unknown: other
+12:53:59,634 F: (ErlParser.java:335) : unknown: other
+13:00:37,950 F: (ErlParser.java:335) : unknown: other
+13:00:41,792 F: (ErlParser.java:335) : unknown: other
+13:00:42,350 F: (ErlParser.java:335) : unknown: other
+13:00:46,238 F: (ErlParser.java:335) : unknown: other
+13:00:47,381 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:00:47,424 F: (ErlParser.java:335) : unknown: other
+13:01:09,696 F: (ErlParser.java:335) : unknown: other
+13:01:09,739 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:01:12,608 F: (ErlParser.java:335) : unknown: other
+13:01:12,661 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:05:40,598 F: (ErlParser.java:335) : unknown: other
+13:05:42,146 F: (ErlParser.java:335) : unknown: other
+13:05:43,062 F: (ErlParser.java:335) : unknown: other
+13:05:45,058 F: (ErlParser.java:335) : unknown: other
+13:05:47,914 F: (ErlParser.java:335) : unknown: other
+13:07:15,579 F: (ErlParser.java:335) : unknown: other
+13:07:50,227 F: (ErlParser.java:335) : unknown: other
+13:07:51,736 F: (ErlParser.java:335) : unknown: other
+13:07:52,116 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:07:52,149 F: (ErlParser.java:335) : unknown: other
+13:10:16,467 F: (ErlParser.java:335) : unknown: other
+13:10:21,306 F: (ErlParser.java:335) : unknown: other
+13:10:22,701 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:10:26,173 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:10:26,314 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:11:27,191 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:11:27,309 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:12:27,983 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:12:28,196 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:14:11,117 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:14:11,227 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:14:25,393 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:14:25,466 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:15:31,770 F: (BackendManager.java:87) : create execution backend ProjectCOmp
+13:15:31,770 F: (BackendFactory.java:54) : Create backend ProjectCOmp
+13:15:31,771 F: (OtpNodeProxy.java:306) : Runtime ProjectCOmp@DESKTOP-VBTB36P starting
+13:15:31,777 F: (OtpNodeProxy.java:213) : ProjectCOmp@DESKTOP-VBTB36P: waiting connection to peer... 
+13:15:31,785 F: (OtpNodeProxy.java:220) : connected!
+13:15:31,885 F: (OtpNodeProxy.java:311) : Runtime ProjectCOmp@DESKTOP-VBTB36P running
+13:15:32,101 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_ab21e3d@DESKTOP-VBTB36P'}
+13:15:32,386 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@fc3bfdf
+13:17:10,195 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:17:35,953 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:17:36,041 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:17:36,089 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:18:17,188 F: (ErlangNodeLaunchShortcut.java:58) : ** Launch:: [L/ProjectCOmp/src/exchange.erl]
+13:18:17,260 F: (BackendManager.java:87) : create execution backend ProjectCOmp
+13:18:17,261 F: (BackendFactory.java:54) : Create backend ProjectCOmp
+13:18:17,273 F: (OtpNodeProxy.java:306) : Runtime ProjectCOmp@DESKTOP-VBTB36P starting
+13:18:17,341 F: (OtpNodeProxy.java:213) : ProjectCOmp@DESKTOP-VBTB36P: waiting connection to peer... 
+13:18:17,395 F: (OtpNodeProxy.java:220) : connected!
+13:18:17,593 F: (OtpNodeProxy.java:311) : Runtime ProjectCOmp@DESKTOP-VBTB36P running
+13:18:17,594 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_ab4a4fa@DESKTOP-VBTB36P'}
+13:18:17,998 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@147a07cd
+13:19:46,256 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:19:48,287 F: (ErlParser.java:335) : unknown: other
+13:19:54,845 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:19:56,241 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:19:56,366 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:19:56,416 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:19:56,464 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:20:02,070 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:20:02,156 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:20:02,202 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:20:02,249 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:02,128 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:21:02,281 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:02,329 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:02,377 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:16,966 F: (ErlParser.java:335) : unknown: other
+13:21:19,269 F: (ErlParser.java:335) : unknown: other
+13:21:21,996 F: (ErlParser.java:335) : unknown: other
+13:21:22,550 F: (ErlParser.java:335) : unknown: other
+13:21:22,561 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:21:22,651 F: (ErlParser.java:335) : unknown: other
+13:21:22,861 F: (ErlParser.java:335) : unknown: other
+13:21:31,245 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:21:31,347 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:31,403 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:21:31,455 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:11,073 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:22:11,171 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:11,217 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:11,266 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:37,365 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:22:37,469 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:37,519 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:22:37,565 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:23:33,269 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:23:41,752 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:23:41,825 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:23:41,871 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:23:41,917 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:23:56,114 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:24:06,857 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:24:06,955 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:24:07,003 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:24:07,086 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:27:56,956 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:27:59,183 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:28:10,033 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:28:10,145 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:28:10,213 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:28:10,278 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:31:29,323 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:31:37,956 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:31:38,081 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:31:38,152 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:31:38,218 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:35:35,330 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:37:27,689 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:37:32,823 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:37:39,393 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:37:45,932 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:37:46,039 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:37:46,107 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:37:46,163 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:37:49,431 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:38:03,720 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:38:29,457 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:38:29,604 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:38:29,689 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:38:29,755 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:38:40,789 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:38:40,991 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:38:41,054 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:38:41,114 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:58:31,697 F: (ErlParser.java:335) : unknown: other
+13:58:47,943 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:59:14,950 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:59:25,376 F: (AbstractErlContentAssistProcessor.java:159) : no results
+13:59:27,643 F: (AbstractErlContentAssistProcessor.java:159) : no results
+13:59:33,408 F: (AbstractErlContentAssistProcessor.java:159) : no results
+13:59:41,179 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+13:59:41,324 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:59:41,391 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+13:59:41,456 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:23,477 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:04:23,613 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:23,684 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:23,752 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:30,037 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:04:30,394 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:30,458 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:30,534 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:47,786 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:04:47,999 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:48,066 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:48,140 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:53,369 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:04:53,578 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:53,641 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:53,703 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:57,157 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:04:57,288 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:57,350 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:04:57,433 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:05:00,455 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:05:00,565 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:05:00,631 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:05:00,715 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:06:10,353 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:07:35,005 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:07:35,221 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:07:35,297 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:07:35,348 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:00,432 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:08:00,541 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:00,588 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:00,635 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:07,585 F: (AbstractErlContentAssistProcessor.java:159) : no results
+14:08:50,403 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:08:50,517 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:50,563 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:08:50,610 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:11:01,658 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:11:01,840 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:11:01,905 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:11:01,969 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:11:05,547 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:11:05,686 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:11:05,734 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:11:05,780 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:14:44,909 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:14:45,020 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:14:45,090 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:14:45,144 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:15:17,149 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:17:20,936 F: (AbstractErlContentAssistProcessor.java:159) : no results
+14:17:23,109 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:22:05,021 F: (ErlParser.java:335) : unknown: other
+14:22:17,088 F: (ErlParser.java:335) : unknown: other
+14:22:21,437 F: (ErlParser.java:335) : unknown: other
+14:22:22,288 F: (ErlParser.java:335) : unknown: other
+14:22:24,738 F: (ErlParser.java:335) : unknown: other
+14:22:30,420 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:22:51,541 F: (ErlParser.java:335) : unknown: other
+14:22:52,979 F: (ErlParser.java:335) : unknown: other
+14:22:53,411 F: (ErlParser.java:335) : unknown: other
+14:22:53,460 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:23:05,900 F: (ErlParser.java:335) : unknown: other
+14:23:05,938 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:24:47,336 F: (ErlParser.java:335) : unknown: other
+14:24:48,834 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:24:51,696 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:02,185 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:13,389 F: (ErlParser.java:335) : unknown: other
+14:25:13,394 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:13,625 F: (ErlParser.java:335) : unknown: other
+14:25:19,116 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:19,221 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:25:19,451 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:25:19,539 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:25:33,278 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:37,786 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:37,892 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:25:37,953 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:25:38,039 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:25:58,379 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:25:58,501 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:25:58,571 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:25:58,651 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:01,501 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:26:01,636 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:01,719 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:01,789 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:33,719 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:26:33,828 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:33,900 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:26:33,984 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:29:03,714 F: (OtpNodeProxy.java:316) : Runtime ProjectCOmp@DESKTOP-VBTB36P stopping
+14:29:03,731 F: (OtpNodeProxy.java:272) : Runtime ProjectCOmp@DESKTOP-VBTB36P terminated
+14:29:07,446 F: (BackendManager.java:87) : create execution backend ProjectCOmp
+14:29:07,446 F: (BackendFactory.java:54) : Create backend ProjectCOmp
+14:29:07,447 F: (OtpNodeProxy.java:306) : Runtime ProjectCOmp@DESKTOP-VBTB36P starting
+14:29:07,451 F: (OtpNodeProxy.java:213) : ProjectCOmp@DESKTOP-VBTB36P: waiting connection to peer... 
+14:29:07,459 F: (OtpNodeProxy.java:220) : connected!
+14:29:07,573 F: (OtpNodeProxy.java:311) : Runtime ProjectCOmp@DESKTOP-VBTB36P running
+14:29:07,742 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_af57ef9@DESKTOP-VBTB36P'}
+14:29:07,742 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+14:29:08,075 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@378a336
+14:30:16,978 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:30:17,113 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:30:17,181 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:30:17,251 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+14:30:30,737 F: (OtpNodeProxy.java:316) : Runtime ProjectCOmp@DESKTOP-VBTB36P stopping
+14:30:30,763 F: (OtpNodeProxy.java:272) : Runtime ProjectCOmp@DESKTOP-VBTB36P terminated
+14:32:06,692 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:32:06,803 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:32:06,875 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:32:22,884 F: (BackendManager.java:87) : create execution backend ProjectCOmp
+14:32:22,884 F: (BackendFactory.java:54) : Create backend ProjectCOmp
+14:32:22,885 F: (OtpNodeProxy.java:306) : Runtime ProjectCOmp@DESKTOP-VBTB36P starting
+14:32:22,889 F: (OtpNodeProxy.java:213) : ProjectCOmp@DESKTOP-VBTB36P: waiting connection to peer... 
+14:32:22,896 F: (OtpNodeProxy.java:220) : connected!
+14:32:22,996 F: (OtpNodeProxy.java:311) : Runtime ProjectCOmp@DESKTOP-VBTB36P running
+14:32:23,122 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_af87a67@DESKTOP-VBTB36P'}
+14:32:23,123 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+14:32:23,508 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@7b7d71d4
+14:32:49,885 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:33:00,497 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:33:05,563 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:33:05,803 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:33:05,870 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:33:05,940 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:33:26,706 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:33:26,835 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:33:26,901 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:33:26,970 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:37:28,444 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:37:28,565 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:37:28,633 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:37:28,700 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:54:53,097 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:54:53,245 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:54:53,319 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:54:53,390 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:55:14,814 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:55:14,902 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:55:14,953 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:55:15,003 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:56:02,996 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:56:03,150 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:56:03,211 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:56:03,281 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:56:24,953 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:56:31,895 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:58:55,692 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:59:09,083 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:59:24,730 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+14:59:24,873 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:59:24,944 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+14:59:25,016 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:29,478 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:00:29,590 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:29,661 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:29,745 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:31,548 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:00:31,656 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:31,726 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:31,810 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:00:51,519 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:01:05,398 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:01:16,977 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:01:24,146 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:01:24,256 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:01:24,320 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:01:24,405 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:03:35,221 F: (ErlParser.java:335) : unknown: other
+15:03:37,134 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:03:37,304 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:03:37,368 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:03:37,430 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:11,814 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:04:11,968 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:12,046 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:12,107 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:14,969 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:04:15,081 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:15,133 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:15,209 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:04:22,892 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:04:34,443 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:04:34,641 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:04:34,726 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:04:34,809 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:05:29,786 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:05:29,920 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:29,989 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:30,071 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:39,743 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:05:39,907 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:39,968 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:40,036 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:05:54,816 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:06:03,137 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:06:03,226 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:03,288 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:03,351 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:07,707 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:06:07,817 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:07,885 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:07,968 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:33,407 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:06:33,515 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:33,578 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:33,649 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:51,895 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:06:52,015 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:52,081 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:06:52,134 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:17,178 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:07:17,297 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:17,351 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:17,424 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:55,236 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:07:55,476 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:55,560 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:07:55,625 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:20,663 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:08:20,775 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:20,838 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:20,908 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:38,940 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:08:39,053 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:39,115 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:39,165 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:43,524 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:08:43,620 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:43,687 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:08:43,773 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:13:59,289 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:13:59,414 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:13:59,480 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:13:59,549 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:14:28,996 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:14:29,137 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:14:29,191 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:14:29,262 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:18:39,791 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:18:39,906 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:18:39,974 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:18:40,043 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:22:09,202 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:22:09,308 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:22:09,395 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:22:09,460 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:22:38,748 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:22:59,734 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:22:59,898 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:22:59,975 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:23:00,040 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:23:06,247 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:23:06,419 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:23:06,488 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:23:06,552 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:24:48,912 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:26:14,072 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:26:38,049 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:26:41,930 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:26:46,227 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:26:51,301 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:27:08,119 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:27:11,722 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:27:24,255 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:27:24,368 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:27:24,453 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:27:24,521 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:27:47,041 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:27:47,145 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:27:47,210 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:27:47,267 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:25,002 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:29:25,113 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:25,164 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:25,229 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:40,445 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:29:40,571 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:40,643 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:40,718 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:43,739 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:29:44,059 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:44,113 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:29:44,170 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:18,022 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:31:18,137 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:18,191 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:18,241 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:30,341 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:31:30,483 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:30,568 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:30,656 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:31:49,545 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:32:14,461 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:32:14,564 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:14,649 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:14,731 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:34,742 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:32:34,961 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:35,042 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:35,104 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:32:53,245 F: (ErlParser.java:335) : unknown: other
+15:32:57,440 F: (ErlParser.java:335) : unknown: other
+15:33:00,279 F: (ErlParser.java:335) : unknown: other
+15:33:03,165 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:33:03,300 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:33:03,350 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:33:03,403 F: (BuilderHelper.java:554) : :: loading calling in ProjectCOmp@DESKTOP-VBTB36P
+15:35:20,312 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:35:20,432 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:35:20,494 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:35:20,564 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:46:02,887 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:46:03,034 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:46:03,093 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:46:03,144 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+15:46:07,841 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:46:26,760 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:46:52,689 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:46:59,016 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:47:19,304 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:47:31,216 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:47:34,695 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:47:37,289 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:48:43,350 F: (AbstractErlContentAssistProcessor.java:159) : no results
+15:48:43,731 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:48:52,602 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:48:56,207 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:49:08,406 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:49:10,755 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:49:19,887 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+15:50:21,645 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:07:32,528 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:07:32,884 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:07:32,984 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:07:33,048 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:08:09,364 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:09:12,379 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:09:20,991 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:09:30,046 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:09:30,187 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:09:30,278 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:09:30,329 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:10:02,456 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:10:02,642 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:10:02,699 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:10:02,750 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:12:48,135 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:12:48,261 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:12:48,371 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:12:48,438 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:13:15,112 F: (ErlParser.java:335) : unknown: other
+16:13:20,905 F: (ErlParser.java:335) : unknown: other
+16:13:20,912 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:13:21,136 F: (ErlParser.java:335) : unknown: other
+16:13:30,138 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:13:30,236 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:13:30,314 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:13:30,375 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:13:53,047 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:14:05,782 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:14:05,950 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:14:06,013 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:14:06,064 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:15:15,061 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:15:55,057 F: (ErlParser.java:335) : unknown: other
+16:16:00,212 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:16:00,414 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:00,472 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:00,539 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:30,627 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:16:30,780 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:30,876 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:31,028 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:54,362 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:16:54,565 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:54,634 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:16:54,698 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:28,637 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:17:28,898 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:28,962 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:29,043 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:44,439 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:17:44,547 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:44,615 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:17:44,699 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:11,232 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:18:11,368 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:11,443 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:11,505 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:14,285 F: (InternalBuilder.java:206) : Will compile 1 resource(s)
+16:18:14,612 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:14,687 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
+16:18:14,749 F: (BuilderHelper.java:554) : :: loading exchange in ProjectCOmp@DESKTOP-VBTB36P
