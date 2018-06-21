@@ -6,12 +6,12 @@
 -export([process/0]).
 -import(lists,[nth/2]).
 
+%% Starting of the program
 start() ->
 	exchange:main().	
 
 
-%%Place the file in Current working directory, 
-%%To find cwd : {ok, CurrentDirectory} = file:get_cwd() 
+%%Place the file in Current working directory, To find cwd : {ok, CurrentDirectory} = file:get_cwd() 
 main() -> 
     {ok,Inputfile} = file:consult("calls.txt"),
 	exchange:printFile(Inputfile).
@@ -24,9 +24,9 @@ printFile(Inputfile) ->
 					 end, Inputfile),
 		io:format("~n"),
 		exchange:createprocess(Inputfile).
-	
+
+%% Creating child process
 createprocess(InputFile) ->	
-	
 	    Filelist= tuple_to_list(file:consult("calls.txt")),
 		FileMap = maps:from_list(lists:nth(2, Filelist)),
 		MapKeys = maps:keys(FileMap),
@@ -35,19 +35,17 @@ createprocess(InputFile) ->
 						  register(ItemVal,spawn(calling,sendIntro,[ItemVal,maps:get(ItemVal, FileMap),MasterID]))
 				          end , MapKeys),
 		process(),
-		io:format("\nMaster has received no replies for 1.5 seconds, ending...").
+		io:format("\nMaster has received no replies for 1.5 seconds, ending...\n").
 	
 
+%% Printing Process Messages
  process()->
-
 	receive
-		
         {intro,Source,Destination,Time} ->
             io:format("~p received intro message from ~p ~p~n",[Destination,Source,[Time]]),
 			process();
         {reply,Source,Destination,Time} ->
             io:format("~p received reply message from ~p ~p~n",[Source,Destination,[Time]]),
             process()
-	        after 4000->true
-	        
-    end.
+	        after 1500->true
+	end.
