@@ -3,3 +3,10 @@
 {sue, [jill,jill,jill,bob,jill]}.
 {bob, [john]}.
 {joe, [sue]}.
+{vicky, [john,seth]}.
+{sam, [simar,john,tim,seth,roger,jason]}.
+{simar, [sue]}.
+{jason, [tim]}.
+{seth, [sue]}.
+{roger, [jason]}.
+{tim, [sue]}.
